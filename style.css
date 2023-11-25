@@ -1,0 +1,30 @@
+.feedback {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .feedback button {
+    font-size: 24px;
+    padding: 10px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .feedback button:focus {
+    outline: none;
+    background-color: black;
+  }
+  
+  
+  .red {
+    color: red;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .green {
+    color: green;
+  }
